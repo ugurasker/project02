@@ -18,6 +18,7 @@ public class FirstClass {
 		System.out.println("here is another conflict from local master branch");
 		
 		System.out.println("here are some changes from local feature branch");
+		System.out.println("here is the conflict on local feature");
 
 
 	}
